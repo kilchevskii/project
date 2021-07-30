@@ -1,0 +1,892 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "pgutzu@gmail.com",
+      "password": "214913fwenclwkecnv",
+      "firstName": "Pavel",
+      "lastName": "Guzu",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "login": "vlad@gmail.com",
+      "password": "123123123",
+      "firstName": "Vladislav",
+      "lastName": "Shevchenko",
+      "isAdmin": false
+    }
+  ],
+  "data": [
+    {
+      "id": 0,
+      "firstName": "Лиза",
+      "lastName": "Бодунова",
+      "dateStart": "04.01.2020",
+      "modules": [
+        {
+          "title": "HTML",
+          "color": "red",
+          "value": "HTML"
+        },
+        {
+          "title": "CSS",
+          "color": "yellow",
+          "value": "CSS"
+        },
+        {
+          "title": "JavaScript",
+          "color": "#006d75",
+          "value": "JavaScript"
+        },
+        {
+          "title": "React",
+          "color": "blue",
+          "value": "React"
+        },
+        {
+          "title": "Redux",
+          "color": "#b37feb",
+          "value": "Redux"
+        }
+      ],
+      "progress": [
+        {
+          "title": "Переменные",
+          "status": true
+        },
+        {
+          "title": "Типы данных",
+          "status": true
+        },
+        {
+          "title": "Операторы",
+          "status": false
+        },
+        {
+          "title": "Операторы сравнения",
+          "status": true
+        },
+        {
+          "title": "Условные операторы",
+          "status": true
+        },
+        {
+          "title": "Логические операторы",
+          "status": false
+        },
+        {
+          "title": "Цикл",
+          "status": true
+        },
+        {
+          "title": "Конструкция 'switch'",
+          "status": true
+        },
+        {
+          "title": "Функции",
+          "status": false
+        },
+        {
+          "title": "Объекты",
+          "status": true
+        },
+        {
+          "title": "this, методы объекта",
+          "status": true
+        },
+        {
+          "title": "Конструктор",
+          "status": false
+        },
+        {
+          "title": "Методы у примитивов",
+          "status": true
+        },
+        {
+          "title": "Числа",
+          "status": true
+        },
+        {
+          "title": "Строки",
+          "status": false
+        },
+        {
+          "title": "Массивы",
+          "status": false
+        },
+        {
+          "title": "Методы массивов",
+          "status": true
+        },
+        {
+          "title": "Map и Set",
+          "status": true
+        },
+        {
+          "title": "Object.keys, values, entries",
+          "status": false
+        },
+        {
+          "title": "Деструктурирующее присваивание",
+          "status": true
+        },
+        {
+          "title": "Дата и время",
+          "status": true
+        },
+        {
+          "title": "Формат JSON, метод toJSON",
+          "status": false
+        },
+        {
+          "title": "Прототипное наследование",
+          "status": true
+        },
+        {
+          "title": "class",
+          "status": true
+        },
+        {
+          "title": "try-catch",
+          "status": false
+        },
+        {
+          "title": "callback",
+          "status": true
+        },
+        {
+          "title": "promise",
+          "status": true
+        },
+        {
+          "title": "async/await",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "firstName": "Артем",
+      "lastName": "Бодунов",
+      "dateStart": "04.01.2020",
+      "modules": [
+        {
+          "title": "html",
+          "color": "red",
+          "value": "html"
+        },
+        {
+          "title": "javascript",
+          "color": "#006d75",
+          "value": "javascript"
+        },
+        {
+          "title": "react",
+          "color": "blue",
+          "value": "react"
+        },
+        {
+          "title": "redux",
+          "color": "#b37feb",
+          "value": "redux"
+        }
+      ],
+      "progress": [
+        {
+          "title": "Переменные",
+          "status": true
+        },
+        {
+          "title": "Операторы сравнения",
+          "status": true
+        },
+        {
+          "title": "Условные операторы",
+          "status": true
+        },
+        {
+          "title": "Логические операторы",
+          "status": false
+        },
+        {
+          "title": "Цикл",
+          "status": true
+        },
+        {
+          "title": "Конструкция 'switch'",
+          "status": true
+        },
+        {
+          "title": "Функции",
+          "status": false
+        },
+        {
+          "title": "Объекты",
+          "status": true
+        },
+        {
+          "title": "this, методы объекта",
+          "status": true
+        },
+        {
+          "title": "Конструктор",
+          "status": false
+        },
+        {
+          "title": "Методы у примитивов",
+          "status": true
+        },
+        {
+          "title": "Числа",
+          "status": true
+        },
+        {
+          "title": "Строки",
+          "status": false
+        },
+        {
+          "title": "Массивы",
+          "status": false
+        },
+        {
+          "title": "Методы массивов",
+          "status": true
+        },
+        {
+          "title": "Map и Set",
+          "status": true
+        },
+        {
+          "title": "Object.keys, values, entries",
+          "status": false
+        },
+        {
+          "title": "Деструктурирующее присваивание",
+          "status": true
+        },
+        {
+          "title": "Дата и время",
+          "status": true
+        },
+        {
+          "title": "Формат JSON, метод toJSON",
+          "status": false
+        },
+        {
+          "title": "Прототипное наследование",
+          "status": true
+        },
+        {
+          "title": "class",
+          "status": true
+        },
+        {
+          "title": "try-catch",
+          "status": false
+        },
+        {
+          "title": "callback",
+          "status": true
+        },
+        {
+          "title": "promise",
+          "status": true
+        },
+        {
+          "title": "async/await",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "firstName": "Павел",
+      "lastName": "Гутзу </3",
+      "dateStart": "04.01.2020",
+      "modules": [
+        {
+          "title": "верстак",
+          "color": "red",
+          "value": "верстак"
+        },
+        {
+          "title": "coach",
+          "color": "#d689b6",
+          "value": "coach"
+        },
+        {
+          "title": "player",
+          "color": "#ec692b",
+          "value": "coach"
+        },
+        {
+          "title": "psychologist",
+          "color": "#6fbbd2",
+          "value": "psychologist"
+        },
+        {
+          "title": "drinking companion",
+          "color": "#279856",
+          "value": "drinking companion"
+        }
+      ],
+      "progress": [
+        {
+          "title": "Переменные",
+          "status": true
+        },
+        {
+          "title": "Операторы сравнения",
+          "status": true
+        },
+        {
+          "title": "Условные операторы",
+          "status": true
+        },
+        {
+          "title": "Логические операторы",
+          "status": true
+        },
+        {
+          "title": "Цикл",
+          "status": true
+        },
+        {
+          "title": "Конструкция 'switch'",
+          "status": true
+        },
+        {
+          "title": "Функции",
+          "status": true
+        },
+        {
+          "title": "Объекты",
+          "status": true
+        },
+        {
+          "title": "this, методы объекта",
+          "status": true
+        },
+        {
+          "title": "Конструктор",
+          "status": true
+        },
+        {
+          "title": "Методы у примитивов",
+          "status": true
+        },
+        {
+          "title": "Числа",
+          "status": true
+        },
+        {
+          "title": "Строки",
+          "status": true
+        },
+        {
+          "title": "Массивы",
+          "status": true
+        },
+        {
+          "title": "Методы массивов",
+          "status": true
+        },
+        {
+          "title": "Map и Set",
+          "status": true
+        },
+        {
+          "title": "Object.keys, values, entries",
+          "status": true
+        },
+        {
+          "title": "Деструктурирующее присваивание",
+          "status": true
+        },
+        {
+          "title": "Дата и время",
+          "status": true
+        },
+        {
+          "title": "Формат JSON, метод toJSON",
+          "status": true
+        },
+        {
+          "title": "Прототипное наследование",
+          "status": true
+        },
+        {
+          "title": "class",
+          "status": true
+        },
+        {
+          "title": "try-catch",
+          "status": true
+        },
+        {
+          "title": "callback",
+          "status": true
+        },
+        {
+          "title": "promise",
+          "status": true
+        },
+        {
+          "title": "Не выпил со мной",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "firstName": "Владислав",
+      "lastName": "Жёпкович",
+      "dateStart": "04.01.2020",
+      "modules": [
+        {
+          "title": "javascript",
+          "color": "#006d75",
+          "value": "javascript"
+        },
+        {
+          "title": "react",
+          "color": "blue",
+          "value": "react"
+        },
+        {
+          "title": "redux",
+          "color": "#b37feb",
+          "value": "redux"
+        }
+      ],
+      "progress": [
+        {
+          "title": "Переменные",
+          "status": true
+        },
+        {
+          "title": "Операторы сравнения",
+          "status": true
+        },
+        {
+          "title": "Условные операторы",
+          "status": true
+        },
+        {
+          "title": "Логические операторы",
+          "status": true
+        },
+        {
+          "title": "Цикл",
+          "status": true
+        },
+        {
+          "title": "Конструкция 'switch'",
+          "status": true
+        },
+        {
+          "title": "Функции",
+          "status": false
+        },
+        {
+          "title": "Объекты",
+          "status": true
+        },
+        {
+          "title": "this, методы объекта",
+          "status": true
+        },
+        {
+          "title": "Конструктор",
+          "status": false
+        },
+        {
+          "title": "Методы у примитивов",
+          "status": true
+        },
+        {
+          "title": "Числа",
+          "status": true
+        },
+        {
+          "title": "Строки",
+          "status": false
+        },
+        {
+          "title": "Массивы",
+          "status": false
+        },
+        {
+          "title": "Методы массивов",
+          "status": true
+        },
+        {
+          "title": "Map и Set",
+          "status": true
+        },
+        {
+          "title": "Object.keys, values, entries",
+          "status": false
+        },
+        {
+          "title": "Деструктурирующее присваивание",
+          "status": true
+        },
+        {
+          "title": "Дата и время",
+          "status": true
+        },
+        {
+          "title": "Формат JSON, метод toJSON",
+          "status": false
+        },
+        {
+          "title": "Прототипное наследование",
+          "status": true
+        },
+        {
+          "title": "class",
+          "status": true
+        },
+        {
+          "title": "try-catch",
+          "status": false
+        },
+        {
+          "title": "callback",
+          "status": true
+        },
+        {
+          "title": "promise",
+          "status": true
+        },
+        {
+          "title": "async/await",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "firstName": "Гей",
+      "lastName": "Клоп",
+      "dateStart": "04.01.2020",
+      "modules": [
+        {
+          "title": "Node",
+          "color": "orange",
+          "value": "Node"
+        }
+      ],
+      "progress": [
+        {
+          "title": "Переменные",
+          "status": true
+        },
+        {
+          "title": "Операторы сравнения",
+          "status": true
+        },
+        {
+          "title": "Условные операторы",
+          "status": true
+        },
+        {
+          "title": "Логические операторы",
+          "status": false
+        },
+        {
+          "title": "Цикл",
+          "status": true
+        },
+        {
+          "title": "Конструкция 'switch'",
+          "status": true
+        },
+        {
+          "title": "Функции",
+          "status": false
+        },
+        {
+          "title": "Объекты",
+          "status": true
+        },
+        {
+          "title": "this, методы объекта",
+          "status": true
+        },
+        {
+          "title": "Конструктор",
+          "status": false
+        },
+        {
+          "title": "Методы у примитивов",
+          "status": true
+        },
+        {
+          "title": "Числа",
+          "status": true
+        },
+        {
+          "title": "Строки",
+          "status": false
+        },
+        {
+          "title": "Массивы",
+          "status": false
+        },
+        {
+          "title": "Методы массивов",
+          "status": true
+        },
+        {
+          "title": "Map и Set",
+          "status": true
+        },
+        {
+          "title": "Object.keys, values, entries",
+          "status": false
+        },
+        {
+          "title": "Деструктурирующее присваивание",
+          "status": true
+        },
+        {
+          "title": "Дата и время",
+          "status": true
+        },
+        {
+          "title": "Формат JSON, метод toJSON",
+          "status": false
+        },
+        {
+          "title": "Прототипное наследование",
+          "status": true
+        },
+        {
+          "title": "class",
+          "status": true
+        },
+        {
+          "title": "try-catch",
+          "status": false
+        },
+        {
+          "title": "callback",
+          "status": true
+        },
+        {
+          "title": "promise",
+          "status": true
+        },
+        {
+          "title": "async/await",
+          "status": false
+        }
+      ]
+    }
+  ],
+  "dataUsers": [
+    {
+      "id": 2,
+      "name": "Елизавета Бодунова",
+      "level": 15,
+      "tasks": 7,
+      "checkList": 2,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 2,
+      "name": "Владислав Шевченко",
+      "level": 18,
+      "tasks": 18,
+      "checkList": 4,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 4,
+      "name": "Артем Бодунов",
+      "level": 3,
+      "tasks": 0,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 5,
+      "name": "Евгений Пополамов",
+      "level": 28,
+      "tasks": 18,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 6,
+      "name": "Виктор Винницкий",
+      "level": 20,
+      "tasks": 12,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 7,
+      "name": "Антон Цыбулько",
+      "level": 22,
+      "tasks": 0,
+      "checkList": 2,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 8,
+      "name": "Анастасия Попова",
+      "level": 16,
+      "tasks": 7,
+      "checkList": 2,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 9,
+      "name": "Самурай",
+      "level": 2,
+      "tasks": 3,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 10,
+      "name": "Mike",
+      "level": 3,
+      "tasks": 17,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 11,
+      "name": "Силя Силя",
+      "level": 6,
+      "tasks": 1,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 12,
+      "name": "Курсы Дизайнер",
+      "level": 6,
+      "tasks": 10,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 13,
+      "name": "sp3ctar",
+      "level": 6,
+      "tasks": 7,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 14,
+      "name": "Никита Невский",
+      "level": 13,
+      "tasks": 10,
+      "checkList": 2,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 15,
+      "name": "Anastasiya Pilipovich",
+      "level": 8,
+      "tasks": 0,
+      "checkList": 1,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 16,
+      "name": "Артур",
+      "level": 13,
+      "tasks": 0,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 17,
+      "name": "Володя",
+      "level": 25,
+      "tasks": 16,
+      "checkList": 1,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 18,
+      "name": "Мария Гудковская",
+      "level": 13,
+      "tasks": 7,
+      "checkList": 2,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 19,
+      "name": "Женя Гузеев",
+      "level": 20,
+      "tasks": 8,
+      "checkList": 3,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 20,
+      "name": "Football Inst",
+      "level": 18,
+      "tasks": 2,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 21,
+      "name": "Сашя Витя",
+      "level": 8,
+      "tasks": 6,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 22,
+      "name": "Денис Пипко",
+      "level": 28,
+      "tasks": 18,
+      "checkList": 5,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 23,
+      "name": "Александр Гирда",
+      "level": 8,
+      "tasks": 9,
+      "checkList": 1,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 24,
+      "name": "Katia Vergeichik",
+      "level": 1,
+      "tasks": 0,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 25,
+      "name": "Evgenia Andreenko",
+      "level": 1,
+      "tasks": 11,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    },
+    {
+      "id": 26,
+      "name": "Gleb",
+      "level": 1,
+      "tasks": 17,
+      "checkList": 0,
+      "dataStart": "2020-10-24"
+    }
+  ]
+}
